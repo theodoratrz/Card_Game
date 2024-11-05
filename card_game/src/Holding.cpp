@@ -1,5 +1,5 @@
-#include "Holding.hpp"
-#include "stats.hpp"
+#include "../include/Holding.hpp"
+#include "../include/stats.hpp"
 #include <iostream>
 
 using namespace std;

@@ -1,11 +1,11 @@
-#include "GameBoard.hpp"
+#include "../include/GameBoard.hpp"
 #include <iostream>
-#include "Card.hpp"
-#include "DeckBuilder.hpp"
-#include "Personality.hpp"
-#include "Holding.hpp"
-#include "Follower.hpp"
-#include "Item.hpp"
+#include "../include/Card.hpp"
+#include "../include/DeckBuilder.hpp"
+#include "../include/Personality.hpp"
+#include "../include/Holding.hpp"
+#include "../include/Follower.hpp"
+#include "../include/Item.hpp"
 
 using namespace std;
 

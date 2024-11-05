@@ -1,5 +1,5 @@
-#include "Follower.hpp"
-#include "stats.hpp"
+#include "../include/Follower.hpp"
+#include "../include/stats.hpp"
 #include <iostream>
 
 using namespace std;

@@ -1,7 +1,7 @@
-#include "Personality.hpp"
-#include "stats.hpp"
+#include "../include/Personality.hpp"
+#include "../include/stats.hpp"
 #include <iostream>
-#include "Card.hpp"
+#include "../include/Card.hpp"
 
 using namespace std;
 

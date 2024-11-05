@@ -1,4 +1,4 @@
-#include "Card.hpp"
+#include "../include/Card.hpp"
 #include <iostream>
 
 using namespace std;

@@ -1,5 +1,5 @@
-#include "Item.hpp"
-#include "stats.hpp"
+#include "../include/Item.hpp"
+#include "../include/stats.hpp"
 #include <iostream>
 
 using namespace std;
